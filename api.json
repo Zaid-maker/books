@@ -1,5 +1,34 @@
 [
   {
+    "title": "The World War I Reader",
+    "authors": [
+      "Michael S. Neiberg"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "2007",
+    "description": "A collection of primary and secondary documents that offers students, scholars, and war buffs an extensive and easy-to-follow overview of World War I.",
+    "image": "http://books.google.com/books/content?id=Zof_mkPPJzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "History"
+    ],
+    "pageCount": 393,
+    "isbn10": "0814758339",
+    "isbn13": "9780814758335",
+    "googleBooks": {
+      "id": "Zof_mkPPJzgC",
+      "preview": "http://books.google.com/books?id=Zof_mkPPJzgC&printsec=frontcover&dq=intitle:The+Ww&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Zof_mkPPJzgC&dq=intitle:The+Ww&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_World_War_I_Reader.html?hl=&id=Zof_mkPPJzgC"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-10-17T08:29:47.000Z"
+  },
+  {
     "title": "Doglapan",
     "authors": [
       "Ashneer Grover"
