@@ -23,7 +23,7 @@ jobs:
         run: sleep 10
       - name: Dispatch AnandChowdhary/everything update
         if: github.repository == 'AnandChowdhary/books'
-        uses: benc-uk/workflow-dispatch@v1.2.2
+        uses: benc-uk/workflow-dispatch@v1.2.3
         with:
           repo: AnandChowdhary/everything
           workflow: api.yml
