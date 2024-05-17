@@ -115,7 +115,10 @@
     },
     "issueNumber": 1,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-10-16T19:18:48.000Z"
+    "state": "completed",
+    "startedAt": "2023-10-16T19:18:48.000Z",
+    "completedAt": "2024-05-17T10:35:06.000Z",
+    "timeToComplete": 18458178000,
+    "timeToCompleteFormatted": "7 months"
   }
 ]
