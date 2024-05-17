@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Lightning Thief",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "publisher": "Disney Electronic Content",
+    "publishedDate": "2009-05-02",
+    "description": "Percy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse-Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him.",
+    "image": "http://books.google.com/books/content?id=FFTJDYx_ZiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 190,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 380,
+    "isbn10": "1423131894",
+    "isbn13": "9781423131892",
+    "googleBooks": {
+      "id": "FFTJDYx_ZiEC",
+      "preview": "http://books.google.com/books?id=FFTJDYx_ZiEC&printsec=frontcover&dq=intitle:The+lightning+theif+by+Riordan+Rick&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=FFTJDYx_ZiEC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=FFTJDYx_ZiEC"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-05-17T10:33:13.000Z"
+  },
+  {
     "title": "The Weather Book Study Guide",
     "authors": [
       "Michael Ord"
