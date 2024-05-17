@@ -18,8 +18,9 @@ Filter books by rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (3)
 
+[![Book cover of The Kama Sutra of Vatsyayana](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-ElAAQAAIAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/8 "The Kama Sutra of Vatsyayana by Vatsyayana")
 [![Book cover of The Lightning Thief](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFFTJDYx_ZiEC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/7 "The Lightning Thief by Rick Riordan")
 [![Book cover of The Weather Book Study Guide](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYY2MAAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/3 "The Weather Book Study Guide by Michael Ord")
 

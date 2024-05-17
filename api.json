@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Kama Sutra of Vatsyayana",
+    "authors": [
+      "Vatsyayana"
+    ],
+    "publisher": "Kama Shastra Society of London and Benares",
+    "publishedDate": "1883",
+    "description": "Translated by Sir R.F. Burton.--cf. N.M. Penzer, An annotated bibliography of Sir Richard Francis Burton ... London, 1893, p. 163. \" ... probably translated by Burton and Arbuthnot ... \" -- Byron Farwell. Burton: a biography of Sir Richard Francis Burton, 1964 ed., p. 363.",
+    "image": "http://books.google.com/books/content?id=-ElAAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 2.5,
+    "ratingsCount": 5,
+    "categories": [
+      "Health & Fitness"
+    ],
+    "pageCount": 196,
+    "googleBooks": {
+      "id": "-ElAAQAAIAAJ",
+      "preview": "http://books.google.com/books?id=-ElAAQAAIAAJ&printsec=frontcover&dq=intitle:The+Kama+sutra+of+Vatsyayana+by+Vatsyayana&hl=&cd=2&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=-ElAAQAAIAAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=-ElAAQAAIAAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-05-17T10:38:14.000Z"
+  },
+  {
     "title": "The Lightning Thief",
     "authors": [
       "Rick Riordan"
