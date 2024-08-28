@@ -18,13 +18,10 @@ Filter books by rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ✅ Completed (5)
 
-[![The Lightning Thief](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFFTJDYx_ZiEC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/7 "The Lightning Thief by Rick Riordan")
-[![The Weather Book Study Guide](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYY2MAAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/3 "The Weather Book Study Guide by Michael Ord")
-
-### ✅ Completed (3)
-
+[![The Weather Book Study Guide](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYY2MAAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/3 "The Weather Book Study Guide by Michael Ord completed in 10 months on August 2024")
+[![The Lightning Thief](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFFTJDYx_ZiEC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/7 "The Lightning Thief by Rick Riordan completed in 3 months on August 2024")
 [![The Kama Sutra of Vatsyayana](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-ElAAQAAIAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/8 "The Kama Sutra of Vatsyayana by Vatsyayana completed in 3 months on August 2024")
 [![Doglapan](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DLSqZzwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/1 "Doglapan by Ashneer Grover completed in 7 months on May 2024")
 [![The World War I Reader](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZof_mkPPJzgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/Zaid-maker/books/issues/2 "The World War I Reader by Michael S. Neiberg completed in 41 seconds on October 2023")

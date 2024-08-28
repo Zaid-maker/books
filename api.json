@@ -1,5 +1,69 @@
 [
   {
+    "title": "The Weather Book Study Guide",
+    "authors": [
+      "Michael Ord"
+    ],
+    "publisher": "Master Books",
+    "publishedDate": "2006-07-31",
+    "description": "These five study guides, available for each book in the Wonders of Creation series, are comprehensive and invaluable for teaching settings. With terms, short answer questions, discussion questions and activity ideas, each guide will enhance the learning experience.",
+    "image": "http://books.google.com/books/content?id=YY2MAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "categories": [
+      "Juvenile Nonfiction"
+    ],
+    "pageCount": 72,
+    "isbn10": "1893345599",
+    "isbn13": "9781893345591",
+    "googleBooks": {
+      "id": "YY2MAAAACAAJ",
+      "preview": "http://books.google.com/books?id=YY2MAAAACAAJ&dq=intitle:The+Weather+by+Michael+Ord&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=YY2MAAAACAAJ&dq=intitle:The+Weather+by+Michael+Ord&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Weather_Book_Study_Guide.html?hl=&id=YY2MAAAACAAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-10-17T08:32:03.000Z",
+    "completedAt": "2024-08-28T07:26:06.000Z",
+    "timeToComplete": 27298443000,
+    "timeToCompleteFormatted": "10 months"
+  },
+  {
+    "title": "The Lightning Thief",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "publisher": "Disney Electronic Content",
+    "publishedDate": "2009-05-02",
+    "description": "Percy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse-Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him.",
+    "image": "http://books.google.com/books/content?id=FFTJDYx_ZiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 190,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 380,
+    "isbn10": "1423131894",
+    "isbn13": "9781423131892",
+    "googleBooks": {
+      "id": "FFTJDYx_ZiEC",
+      "preview": "http://books.google.com/books?id=FFTJDYx_ZiEC&printsec=frontcover&dq=intitle:The+lightning+theif+by+Riordan+Rick&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=FFTJDYx_ZiEC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=FFTJDYx_ZiEC"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2024-05-17T10:33:13.000Z",
+    "completedAt": "2024-08-28T07:25:56.000Z",
+    "timeToComplete": 8887963000,
+    "timeToCompleteFormatted": "3 months"
+  },
+  {
     "title": "The Kama Sutra of Vatsyayana",
     "authors": [
       "Vatsyayana"
@@ -60,64 +124,6 @@
     "completedAt": "2024-05-17T10:35:06.000Z",
     "timeToComplete": 18458178000,
     "timeToCompleteFormatted": "7 months"
-  },
-  {
-    "title": "The Lightning Thief",
-    "authors": [
-      "Rick Riordan"
-    ],
-    "publisher": "Disney Electronic Content",
-    "publishedDate": "2009-05-02",
-    "description": "Percy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse-Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him.",
-    "image": "http://books.google.com/books/content?id=FFTJDYx_ZiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4.5,
-    "ratingsCount": 190,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "pageCount": 380,
-    "isbn10": "1423131894",
-    "isbn13": "9781423131892",
-    "googleBooks": {
-      "id": "FFTJDYx_ZiEC",
-      "preview": "http://books.google.com/books?id=FFTJDYx_ZiEC&printsec=frontcover&dq=intitle:The+lightning+theif+by+Riordan+Rick&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=FFTJDYx_ZiEC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=FFTJDYx_ZiEC"
-    },
-    "issueNumber": 7,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-05-17T10:33:13.000Z"
-  },
-  {
-    "title": "The Weather Book Study Guide",
-    "authors": [
-      "Michael Ord"
-    ],
-    "publisher": "Master Books",
-    "publishedDate": "2006-07-31",
-    "description": "These five study guides, available for each book in the Wonders of Creation series, are comprehensive and invaluable for teaching settings. With terms, short answer questions, discussion questions and activity ideas, each guide will enhance the learning experience.",
-    "image": "http://books.google.com/books/content?id=YY2MAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 4,
-    "categories": [
-      "Juvenile Nonfiction"
-    ],
-    "pageCount": 72,
-    "isbn10": "1893345599",
-    "isbn13": "9781893345591",
-    "googleBooks": {
-      "id": "YY2MAAAACAAJ",
-      "preview": "http://books.google.com/books?id=YY2MAAAACAAJ&dq=intitle:The+Weather+by+Michael+Ord&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=YY2MAAAACAAJ&dq=intitle:The+Weather+by+Michael+Ord&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Weather_Book_Study_Guide.html?hl=&id=YY2MAAAACAAJ"
-    },
-    "issueNumber": 3,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-10-17T08:32:03.000Z"
   },
   {
     "title": "The World War I Reader",
